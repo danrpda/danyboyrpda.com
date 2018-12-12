@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:COUNTER,name:Ser_No;datatype:VARCHAR,name:Contract_Reference;datatype:VARCHAR,name:Contract_Number;datatype:VARCHAR,name:Contract_Name;datatype:VARCHAR,name:Method_of_procurement;datatype:VARCHAR,name:Awarded_To;datatype:VARCHAR,name:Total;datatype:VARCHAR,name:Currency;datatype:VARCHAR,name:UEAP_Store;datatype:VARCHAR,name:Status;datatype:VARCHAR" />
+</info>
